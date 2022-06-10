@@ -1,6 +1,6 @@
 import personaje_abstract
 import personaje_superclass
-
+"""hahahahaha"""
 class Aatrox(Personaje_abstract, Personaje_superclass):
 
     def __init__(self):
